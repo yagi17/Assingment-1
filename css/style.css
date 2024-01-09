@@ -12,6 +12,7 @@ header {
 
 /* header related style */
 .header {
+    margin-top: 50px;
     height: 100vh;
     border-radius: 16px;
     background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../image/Banner-Image.png');
