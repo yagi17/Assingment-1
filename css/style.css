@@ -314,7 +314,7 @@ header {
 .holiday-img {
     height: 662px;
     max-width: 1320px;
-    background-image: url("../image/Group-44.png"), url("../image/Group-75.png"), url("../image/Rectangle-1.png"), url("//image/Rectangle-2.png");
+    background-image: url("../image/Group-44.png"), url("../image/Group-75.png"), url("../image/Rectangle-1.png"), url("../image/Rectangle-2.png");
     background-repeat: no-repeat;
     background-position: 740px 50px, 100px 0px, top right, bottom;
 }
