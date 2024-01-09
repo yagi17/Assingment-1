@@ -321,7 +321,7 @@ header {
 
 /* subscribe section styles */
 
-.sub-img{
+.sub-img {
     margin-top: 48px;
     height: 924px;
     display: flex;
@@ -329,6 +329,7 @@ header {
     justify-content: space-between;
 
 }
+
 .sub-title {
 
     margin-top: 120px;
@@ -367,7 +368,7 @@ header {
 }
 
 /* letterbox section */
- 
+
 .newsletter {
     margin-top: 120;
     height: 100vh;
@@ -438,3 +439,75 @@ header {
 }
 
 /* footer section styles */
+
+footer {
+    margin-top: 120px;
+    background-color: #070211;
+    background-size: cover;
+    height: 609px;
+    text-align: left;
+    color: #FFF;
+}
+
+.footer {
+    width: 82.5%;
+    height: 609px;
+    max-width: 1320px;
+    margin: auto;
+
+}
+
+.footer-info {
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+}
+
+.footer-loc {
+    margin-top: 120px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.contact {
+    margin-top: 120px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.phone,.website {
+    width: ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-logos {
+    margin: 48px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 24px;
+}
+
+hr {
+    margin: 50px 0px;
+}
+
+.rights {
+
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: flex;
+    justify-content: space-between;
+}
