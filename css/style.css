@@ -14,7 +14,7 @@ header {
 .header {
     height: 100vh;
     border-radius: 16px;
-    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('/image/Banner_Image.png');
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../image/Banner-Image.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -92,7 +92,7 @@ header {
 .welcome {
     height: 100vh;
     border-radius: 16px;
-    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("/image/Vectorrr.png");
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../image/Vectorrr.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -217,7 +217,7 @@ header {
 }
 
 .bonus-img-container {
-    background-image: url("/image/Ellipse\ 2.png");
+    background-image: url("../image/Ellipse-2.png");
     background-repeat: no-repeat;
     width: 463px;
     height: 463px;
@@ -314,7 +314,7 @@ header {
 .holiday-img {
     height: 662px;
     max-width: 1320px;
-    background-image: url("/image/Group\ 44.png"), url("/image/Group\ 75.png"), url("/image/Rectangle\ 1.png"), url("/image/Rectangle\ 2.png");
+    background-image: url("../image/Group-44.png"), url("../image/Group-75.png"), url("../image/Rectangle-1.png"), url("//image/Rectangle-2.png");
     background-repeat: no-repeat;
     background-position: 740px 50px, 100px 0px, top right, bottom;
 }
